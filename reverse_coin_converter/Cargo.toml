@@ -1,0 +1,6 @@
+[package]
+name = "reverse_coin_converter"
+version = "0.1.0"
+authors = ["scottworks <cescott.ieee@gmail.com>"]
+
+[dependencies]
